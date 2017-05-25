@@ -47,7 +47,7 @@ Font Families
  Inconsolata for Powerline               Inconsolata               SIL Open Font License, Version 1.0
  Inconsolata-dz for Powerline            Inconsolata-dz            SIL Open Font License, Version 1.0
  Inconsolata-g for Powerline             Inconsolata-g             SIL Open Font License, Version 1.0
- Input Mono                              Input Mono                Input’s license
+ Input Mono                              Input Mono                `Input’s license <http://input.fontbureau.com/license/>`_
  Literation Mono Powerline               Liberation Mono           SIL Open Font License, Version 1.1
  ProFontWindows                          ProFont for Powerline     MIT License
  Meslo for Powerline                     Meslo                     Apache License, Version 2.0
@@ -65,7 +65,7 @@ Font Families
 ======================================= ========================= ====================================
 
 iTerm2 users need to set both the Regular font and the Non-ASCII Font in
-"iTerm > Preferences > Text" to use a patched font (per `this issue`__).
+"iTerm > Preferences > Profiles > Text" to use a patched font (per `this issue`__).
 
 __ https://github.com/Lokaltog/powerline-fonts/issues/44
 
